@@ -1,6 +1,6 @@
 # Weasel-Key
 Basic keylogger made in C++. Beware of spaghetti code. 
-
+```
                                  _,-/"---,
          ;"""""""""";         _/;; ""  <@`---v
        ; :::::  ::  "\      _/ ;;  "    _.../
@@ -11,8 +11,8 @@ Basic keylogger made in C++. Beware of spaghetti code.
     | :/ / ,/            \_ "")/
     | | / /"""=            \;;\""=
     ; ;{::""""""=            \"""=
-    ;"""";
-    \/"""
+  ;"""";
+  \/"""```
 
 # Requirements 
 WinSock2
