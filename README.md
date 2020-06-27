@@ -16,6 +16,6 @@ Basic keylogger made in C++. Beware of spaghetti code.
 ```
 
 # Requirements 
-WinSock2
-Dirent C/C++ library. (https://github.com/tronkko/dirent)
+* WinSock2
+* Dirent C/C++ library. (https://github.com/tronkko/dirent)
 
