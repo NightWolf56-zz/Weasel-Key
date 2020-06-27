@@ -12,7 +12,8 @@ Basic keylogger made in C++. Beware of spaghetti code.
     | | / /"""=            \;;\""=
     ; ;{::""""""=            \"""=
   ;"""";
-  \/"""```
+  \/"""
+```
 
 # Requirements 
 WinSock2
